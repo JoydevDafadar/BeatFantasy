@@ -5,7 +5,7 @@
 }
 
 .p-1{
-  padding: 0rem 1rem;  
+  padding: 1rem 1rem;  
 }
 
 
@@ -21,7 +21,7 @@
     left: 0;
     top: 0;
     width: 100vw;
-    height: 70vh;
+    height: 80vh;
     opacity: .4;
     z-index: 1;
 }
@@ -92,7 +92,7 @@ header i{
     color: #E10000;
 }
 .hero .content .para {
-    padding:2rem 0rem;
+    padding:4rem 0rem;
 }
 .hero .content input {
     width: 80vw;
